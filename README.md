@@ -1,2 +1,2 @@
-### ARMAN RIZAL
-Personal website developed for Arman Rizal to showcase his expertise and to facilitate interaction of consulting.
+### INAZRABUU
+Personal website developed for @inazrabuu to showcase his expertise and to facilitate interaction of consulting.
