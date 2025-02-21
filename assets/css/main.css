@@ -1812,6 +1812,24 @@ input, select, textarea {
 				opacity: 0;
 			}
 
+		.gallery .gallery-subtitle {
+			display: block; 
+			position: absolute; 
+			top: 0;
+			padding: 10px;
+			background: rgba(0, 0, 0, 0.5);
+			width: 100%;
+		}
+
+		.gallery .gallery-subtitle .text {
+			font-family: 'Arial', Helvetica, sans-serif; 
+			font-size: 1.5rem; 
+			font-weight: bold;
+			letter-spacing: -0.05em;
+			line-height: 1.25;
+			color: #fff; 
+		}
+
 		.gallery .group {
 			display: -moz-flex;
 			display: -webkit-flex;
